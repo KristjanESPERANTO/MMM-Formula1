@@ -23,7 +23,9 @@
 		"module"
 	],
 	"author": "Ian Perrin",
-	"contributors": "https://github.com/ianperrin/MMM-Formula1/graphs/contributors",
+	"contributors": [
+		"https://github.com/ianperrin/MMM-Formula1/graphs/contributors"
+	],
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/ianperrin/MMM-Formula1/issues"
